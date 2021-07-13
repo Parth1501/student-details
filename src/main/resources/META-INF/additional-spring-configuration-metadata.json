@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "couchbase.host",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.host'"
+  },
+  {
+    "name": "couchbase.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.userName'"
+  },
+  {
+    "name": "couchbase.password",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.password'"
+  },
+  {
+    "name": "couchbase.bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.bucketName'"
+  },
+  {
+    "name": "couchbase.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.userName'"
+  },
+  {
+    "name": "couchbase.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.userName'"
+  },
+  {
+    "name": "couchbase.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.userName'"
+  },
+  {
+    "name": "couchbase.bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'couchbase.bucketName'"
+  }
+]}
